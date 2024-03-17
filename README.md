@@ -1,6 +1,4 @@
-Interact with the app:
-
-      https://sales-analysis-xcqtekdeprua6zhcvcpnqh.streamlit.app/
+Interact with the app:  https://sales-analysis-xcqtekdeprua6zhcvcpnqh.streamlit.app/
 
 ![1](https://github.com/Carey9870/sales-analysis/assets/100701309/774ae18a-1286-4edd-9994-376c48e82473)
 
